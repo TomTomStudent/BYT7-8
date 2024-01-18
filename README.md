@@ -1,3 +1,2 @@
 # BYT7-8
-# BYT7-8
-# BYT7-8
+In this assignment, you will work with the JUnit framework to perform Java unit testing. JUnit is an open source project available at www.junit.org which is already integrated into Eclipse 3.4 and later. We will be working with JUnit version 4. This Lab consists of two parts. In the first part you will learn a bit about JUnit by doing a few tutorial-like mini-exercises. In the second section you work on a set of tasks with the classes Currency, Money and Bank.
